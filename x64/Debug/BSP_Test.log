@@ -1,0 +1,3 @@
+﻿  BSP_TESTT.cpp
+J:\유니티 포트폴리오\알고리즘\BSP_Test\BSP_TESTT.cpp(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Dugeonlocaton' 왼쪽은 무시됩니다.
+  BSP_Test.vcxproj -> J:\유니티 포트폴리오\알고리즘\BSP_Test\x64\Debug\BSP_Test.exe
